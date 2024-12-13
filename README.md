@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Dockerfiles where the requirements file is missing or there are issues with the dependency installation process.  The `Dockerfile` showcases the problematic code, while `Dockerfile_fixed` presents the corrected version.  The issue is due to incorrect handling of dependencies and potentially missing files.
